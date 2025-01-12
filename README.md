@@ -8,4 +8,5 @@
 
 Odin Project Takes - [Odin Recipe](https://llessreal.github.io/odin-recipe/) , [Web Rock Paper Scissors](https://llessreal.github.io/RockPaperScissors-Game/) , [Etch-a-Sketch](https://llessreal.github.io/Etch-a-Sketch-thing/)
 <br> School Projects - [Perspective Portfolio](https://llessreal.github.io/PERS-PORTFOLIO/)
+<br> Contact: https://www.linkedin.com/in/miguel-marshall/
 
