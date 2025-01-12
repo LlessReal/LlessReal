@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LlessReal
+- 👋 Hi there, welcome to my clubhouse!
 - 👀 I’m interested in girls
-- 🌱 I’m currently learning nothing, im an eternal idiot with no future
-- 💞️ I’m looking to collaborate on a mrbeast video
-- 📫 How to reach me: **don't.**
+- 📫 How to reach me: **find me.**
 - 😄 Pronouns: **f### pronouns**
 - ⚡ Fun fact: **its not a mistake, it's a masterpiece ✨**
 
