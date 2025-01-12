@@ -1,7 +1,7 @@
 - 👋 Hi there, welcome to my clubhouse!
-- 👀 I’m interested in girls
+- 👀 I’m interested in becoming the very best !!
 - 📫 How to reach me: **find me.**
-- 😄 Pronouns: **f### pronouns**
+- 😄 Pronouns: **nah**
 - ⚡ Fun fact: **its not a mistake, it's a masterpiece ✨**
 
 <br> Current Projects - [Winsome's Creations](https://llessreal.github.io/Winsome-Creations/) , [Python for Dummies](https://llessreal.github.io/Python-for-Dummies/)
