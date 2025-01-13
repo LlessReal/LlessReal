@@ -16,5 +16,5 @@
 <br> [VPN Setup in Virtual Machine](https://github.com/LlessReal/Setting-up-a-VPN)
 
 ## 📧 Contact
-<br> **Find me:** https://www.linkedin.com/in/miguel-marshall/
-**Special Quote:** "its not a mistake, it's a masterpiece ✨"
+<br> https://www.linkedin.com/in/miguel-marshall/ **(Find me.)**
+<<br> **Special Quote:** "its not a mistake, it's a masterpiece ✨"
