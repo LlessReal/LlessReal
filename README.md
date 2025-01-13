@@ -1,11 +1,7 @@
 # 👋 Hi there, welcome to my clubhouse!
-- 👀 I’m interested in becoming the very best !!
-- 📫 How to reach me: **find me.**
-- 😄 Pronouns: **nah**
-- ⚡ Fun fact: **its not a mistake, it's a masterpiece ✨**
 
 ## 📧 Contact
-<br> Contact: https://www.linkedin.com/in/miguel-marshall/
+<br> **Find me:** https://www.linkedin.com/in/miguel-marshall/
 
 ## 👩‍💻 Web Development Projects
 <br> Current Projects - [Winsome's Creations](https://llessreal.github.io/Winsome-Creations/) , [Python for Dummies](https://llessreal.github.io/Python-for-Dummies/)
@@ -19,3 +15,6 @@
 [Setting Up Active Directory using Azure VMs](https://github.com/LlessReal/configure-ad) , [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/LlessReal/azure-network-protocols)
 - Virtual Private Network
 [VPN Setup in Virtual Machine](https://github.com/LlessReal/Setting-up-a-VPN)
+
+### Special Quote
+**its not a mistake, it's a masterpiece ✨**
