@@ -10,11 +10,11 @@
 
 ## 💻 IT Projects
 - osTicket: Creating a Ticketing System for Help Desk
-[Prerequisites and Installation](https://github.com/LlessReal/osticket-prereqs) , [Post-Installation Configuration](https://github.com/LlessReal/post-install-config) , [Ticket Lifecycle Examples](https://github.com/LlessReal/ticket-lifecycle)
+<br> [Prerequisites and Installation](https://github.com/LlessReal/osticket-prereqs) , [Post-Installation Configuration](https://github.com/LlessReal/post-install-config) , [Ticket Lifecycle Examples](https://github.com/LlessReal/ticket-lifecycle)
 - Microsoft Azure
-[Setting Up Active Directory using Azure VMs](https://github.com/LlessReal/configure-ad) , [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/LlessReal/azure-network-protocols)
+<br> [Setting Up Active Directory using Azure VMs](https://github.com/LlessReal/configure-ad) , [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/LlessReal/azure-network-protocols)
 - Virtual Private Network
-[VPN Setup in Virtual Machine](https://github.com/LlessReal/Setting-up-a-VPN)
+<br> [VPN Setup in Virtual Machine](https://github.com/LlessReal/Setting-up-a-VPN)
 
 ### Special Quote
 **its not a mistake, it's a masterpiece ✨**
