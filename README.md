@@ -4,6 +4,7 @@
 <br> Current Projects - [Winsome's Creations](https://llessreal.github.io/Winsome-Creations/) , [Python for Dummies](https://llessreal.github.io/Python-for-Dummies/)
 <br> Odin Project Websites - [Odin Recipes](https://llessreal.github.io/odin-recipes/) , [Web Rock Paper Scissors](https://llessreal.github.io/RockPaperScissors-Game/) , [Etch-a-Sketch](https://llessreal.github.io/Etch-a-Sketch-thing/) , ["Landing Page"](https://llessreal.github.io/landing-page/)
 <br> School Projects - [Perspective Portfolio](https://llessreal.github.io/PERS-PORTFOLIO/)
+<br> Coming Soon - Schizo-Bot (Discord Chat-Bot for gaining levels while you're afk, unpenalized!)
 
 ## 💻 IT Projects
 - osTicket: Creating a Ticketing System for Help Desk
